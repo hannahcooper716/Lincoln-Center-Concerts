@@ -1,0 +1,4 @@
+twitter_api_key = '0PcOrCKFTAOjG0jS0w1FGe3QF'
+twitter_api_secret = 'B4mwEcjSqYrcEvBYB5oa7NR5NwqSaCcgrWneHkAstfjys8Kveo'
+twitter_access_token = '976215271244533761-hzSQD9NgEShEYPkXKVawCTXwA0x5ad9'
+twitter_access_token_secret = 'hr8AetvpVQfO7IlBUMR7TnbU2yV395SkP3wUECy23kkUn'
